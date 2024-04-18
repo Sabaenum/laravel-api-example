@@ -6,7 +6,7 @@ use OpenApi\Annotations as OA;
 
 /**
  * @OA\Info(
- *    title="APIs For Thrift Store",
+ *    title="APIs For Store",
  *    version="1.0.0",
  * )
  */

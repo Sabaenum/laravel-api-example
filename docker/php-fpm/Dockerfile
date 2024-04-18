@@ -107,8 +107,6 @@ ENV LC_ALL ${LOCALE}
 
 WORKDIR /var/www
 
-RUN composer install
-
 CMD ["php-fpm"]
 
 EXPOSE 9000
